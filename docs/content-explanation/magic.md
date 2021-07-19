@@ -13,6 +13,7 @@
 #### 合成法杖
 
 以下为法杖的合成配方 由一个下界之星与烈焰棒上下摆放合成
+
 <img style="width: 500px; zoom: 50%;" draggable="false" src="https://s2.ax1x.com/2020/03/05/3H4qF1.png"/>
 关于更多的魔法的合成配方[在此查看](http://magic.elmakers.com/#wands) 可能需要梯子
 
